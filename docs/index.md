@@ -1,3 +1,3 @@
-# Welcome to WAAAH
+# Welcome
 
-This is your GitHub Pages site. Edit this content to customize your site.
+This is the Jekyll site for waaah project.
